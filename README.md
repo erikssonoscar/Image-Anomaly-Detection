@@ -1,2 +1,2 @@
 # Image-Anomaly-Detection
-A notebook on using an Autoencoder to do anomaly detection in image. This is a summary of my Bachelor's project.
+A notebook on using an autoencoder to do anomaly detection in images. This is a summary of my Bachelor's project.
